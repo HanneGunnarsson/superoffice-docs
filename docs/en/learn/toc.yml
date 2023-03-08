@@ -21,8 +21,6 @@ items:
       href: getting-started/bulk-update.md
     - name: Tooltip
       href: getting-started/info-box.md
-    - name: Visibility
-      href: ../admin/user-management/learn/visibility.md
     - name: Work with the Section tabs
       href: getting-started/section-tabs.md
       items:
