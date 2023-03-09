@@ -9,7 +9,7 @@ so.topic: concept
 language: en
 ---
 
-# Companies
+# Company
 
 ![Company screen -screenshot][img3]
 
@@ -17,6 +17,16 @@ language: en
 
 > [!NOTE]
 > [Contacts][1] that are not associated with a company, can be found in the **Contact** screen.
+
+[!include[Intro](../includes/company-screen-intro.md)]
+
+In the **Company** screen, every record in the database is displayed like an index card, containing all information for that company.
+
+To move between companies, click the previous/next buttons (![icon][img2] ![icon][img1]) at the bottom right of the cards.
+
+You can search for specific companies based on criteria that you specify. You can also write documents, generate follow-ups and create new companies and contacts.
+
+## Section tabs on Company
 
 The bottom of the screen contains the following [default section tabs][8]:
 
@@ -49,5 +59,6 @@ Everything you want to find out about a company is available from a single scree
 [8]: screen/index.md
 
 <!-- Referenced images -->
-
+[img1]: ../../../media/icons/arrow-right.png
+[img2]: ../../../media/icons/arrow-left.png
 [img3]: media/company-month-mini.bmp

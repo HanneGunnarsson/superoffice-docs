@@ -52,6 +52,7 @@ To ensure that you can communicate with your clients in their own language (wher
 * [Send documents][5]
 * [Delete documents][6]
 * [Check in/out documents][7]
+* [Install WebTools][8]
 
 <!-- Referenced links -->
 [1]: open.md
@@ -61,6 +62,7 @@ To ensure that you can communicate with your clients in their own language (wher
 [5]: send-as-email.md
 [6]: delete.md
 [7]: lock.md
+[8]: web-tools.md
 
 <!-- Referenced images -->
 [img1]: ../../../../common/icons/document-h32.png
